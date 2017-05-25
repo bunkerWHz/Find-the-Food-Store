@@ -1,6 +1,6 @@
 ## What is this?
 
-Just you wait folks!
+Simple app for finding and rating food stores.
 
 ## Sample Data
 
