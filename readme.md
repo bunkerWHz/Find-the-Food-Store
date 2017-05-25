@@ -1,3 +1,7 @@
+## Link to try it out.
+
+https://find-the-food-store-sftbhecniv.now.sh/
+
 ## What is this?
 
 Simple app for finding and rating food stores.
